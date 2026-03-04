@@ -1,0 +1,7 @@
+Dataset/
+*.wav
+*.npy
+model/*.pkl
+model/*.keras
+model/temp_input.wav
+model/waveplot.png
